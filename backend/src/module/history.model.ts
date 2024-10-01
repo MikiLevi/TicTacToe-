@@ -1,6 +1,6 @@
 export interface HistoryGame {
-    plyerOne: string;
-    plyerTwo: string;
+    playerOne: string;
+    playerTwo: string;
     statusGame: GameStatus,
 }
 export enum GameStatus {
