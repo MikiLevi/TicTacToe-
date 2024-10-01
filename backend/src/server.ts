@@ -1,9 +1,11 @@
 
 import express,{Request, Response} from 'express';
-import userRouter from "./routing/user.routing"
+import userRouter from "./routing/user.routing";
+import dotenv from "dotenv";
+dotenv.config()
 
 const app = express();
-const PORT = 3000;
+const PORT = 3003;
 
 app.use(express.json());
 app.use(userRouter)
@@ -15,3 +17,4 @@ app.listen(PORT, () => {
     console.log(`Server listen to PORT: http://localhost:${PORT}`);
 });
 
+console.log("ENV",process.env.PORT);
