@@ -1,3 +1,4 @@
+
 import express from 'express';
 
 const app = express();
@@ -10,3 +11,4 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server listen to PORT: http://localhost:${PORT}`);
 });
+
