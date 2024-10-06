@@ -20,6 +20,5 @@ export async function addNewPlayerToDb(Player:Player): Promise<any> {
         console.error("Error adding new player to the database", err);
     }
 }
-//testing
 
 
