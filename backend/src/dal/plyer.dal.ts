@@ -1,6 +1,6 @@
 import {Player} from "../module/player.model";
 import {getFromDb, wirteToDb} from "./service.dal";
-import {createPlyer} from"../service/plyer.service";
+import {createPlyer} from"../service/player.service";
 import dotenv from "dotenv"
 dotenv.config();
 const FILE_NAME = process.env.PLYER_FILE_NAME as string;
