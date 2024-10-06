@@ -8,5 +8,70 @@
     "id": "gdsg",
     "playerName": "gsdg",
     "passwordHash": "gdsg"
+  },
+  {
+    "id": "9609c51a-4ab0-4fbe-974a-fb0ebff27895",
+    "playerName": "ori",
+    "passwordHash": "$2b$10$0tgKGLHL1DjpGyjgk/ubrO/nyr9idGkJJlveBd1OFOqyvEKendJfK"
+  },
+  {
+    "id": "37c0e627-0107-47d5-985f-549b851823ec",
+    "playerName": "ori",
+    "passwordHash": "$2b$10$gQykBaqFKrVEIdta27/vo./ku2ARdqKtMMYGGGTTbox5nn.0hBmeS"
+  },
+  {
+    "id": "9c9e8996-1bc6-4d8f-8e9a-ee88133cdbce",
+    "playerName": "ori",
+    "passwordHash": "$2b$10$EQHibu8f1wOEVakhs21zZe5U6sanr0/NwJWjgKDgyv9PFyPRaH4FW"
+  },
+  {
+    "id": "3c5f2085-46dd-49f9-8b2d-6d2c1272389a",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$c3fWY44vaEUXWpkQ32bnkuqN11vBDpy1WHz0Jyzi7uYxVsU2Fjyuy"
+  },
+  {
+    "id": "fcea0f44-5181-41d3-90b4-c7213cc0f719",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$uQKM/Xm6pQh05N.OgnhMYOv8W0JPpQzigPkBkUM6ek8l9NSSnclRu"
+  },
+  {
+    "id": "cc587dfd-d2ee-4a60-9d96-1a2bf349a871",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$nAiEIcy6RMoHVQ4fqGbSK.LKkVRmfL2PLRhm.HfywD31VoHZiodlG"
+  },
+  {
+    "id": "dc51415c-f58a-41a8-bed0-17a48a0b46f4",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$Ck.4uXwHsTWt./jVGOSs7.pQxOTxCawN2zNRhosFBHnCmaypnLz.G"
+  },
+  {
+    "id": "5af86bea-1206-4c06-a75e-e7293f20f9da",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$PafTLYvTNUIPHgkTqOpVfeYq93rKyXIxxZQYCRp/mgTkAx3sMBW9a"
+  },
+  {
+    "id": "d2674087-8563-4743-b0cb-c8c18dea85d1",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$sPru5RjPi5/tWuVTZyCPi.uJfGqzeHD9iBp8K4K.70ceRQjxCXFYW"
+  },
+  {
+    "id": "a3eb1b08-8fdb-49fa-a807-fcea2a1f2ba7",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$irJOJCiPCGsy.wb9/zAaEOIynjgpB.17H2oWJIJpo71KICXdWd3mi"
+  },
+  {
+    "id": "ed5426bb-f2b8-47d9-9aea-bfb9ef0b4d5c",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$l7Qah2B2lwE6/siEmnMVReXcE5nUNeVaSJaDqRAOrLwH3O.9FBIbO"
+  },
+  {
+    "id": "6b619115-6512-4fd1-8b0b-771c34d37985",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$wBsOtRTIOuhbUhnXd67DPO0mwwgZgALPnYhmBB070N5umyGY9xVEa"
+  },
+  {
+    "id": "85ee2732-b68b-4d4d-a18a-ff5b4afe0478",
+    "playerName": "shneor",
+    "passwordHash": "$2b$10$lEV6rKBgnLaK/pMKudAr6.O7GjOsPvTYe7iP7WjM0BBZjJNfy4guq"
   }
 ]
