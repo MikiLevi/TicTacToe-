@@ -13,7 +13,6 @@ export async function addNewPlayerToDb(Player:Player): Promise<any> {
 
     try{
         const Players:Player[] = await getFromDb<Player>(FILE_NAME);    
-        console.log("in", Players);
         Players.push(Player);
         await wirteToDb<Player>(FILE_NAME, Players);
     }
