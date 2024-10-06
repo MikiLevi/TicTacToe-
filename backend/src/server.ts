@@ -8,7 +8,7 @@ const app = express();
 const PORT = 3003;
 
 app.use(express.json());
-app.use(userRouter)
+app.use(userRouter); 
 app.get('/', (req: Request, res: Response) => {
     res.send('Hello bro');
 });
